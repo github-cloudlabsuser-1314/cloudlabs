@@ -67,8 +67,7 @@ import { getCartQuantity } from "./actions/actions";
         window.scrollTo(0, 0);
     }, [location.pathname]);
 
-    Server=tcp:contoso-traders-products1530837.database.windows.net,1433;Initial Catalog=productsdb;Persist Security Info=False;User ID=localadmin;Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
-    
+   
     return (
       <div className={`App ${props.theme ? 'dark' : 'light' }`}>
         <Fragment>
