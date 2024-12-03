@@ -5,7 +5,7 @@ Update
 ##  Architecture 
 
 ![Architecture](./docs/architecture/contoso-traders-enhancements.drawio.png)
-Test Edit
+Test Edit nother
 
 Server=tcp:contoso-traders-products1530837.database.windows.net,1433;Initial Catalog=productsdb;Persist Security Info=False;User ID=localadmin;Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
 
